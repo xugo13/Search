@@ -1,0 +1,28 @@
+.container{
+    width: 1024px;
+    background-color: chartreuse;
+    height: 2000px;
+}
+.header, footer{
+    height: 200px;
+    background-color: bisque;
+    padding: 0px;
+}
+.wrapper{
+    height: 1600px;
+}
+.wrapper .row div{
+    height: 1600px;
+}
+.left{
+    background-color: green;
+}
+.right{
+    background-color: red;
+}
+.center{
+     background-color: blueviolet;
+}
+.items{
+    margin-top: 15px;
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "brand":"iPhone",
+    "model":"iPhone 7",
+    "url": "iPhone_7.jpg"
+  },
+  {
+    "brand":"iPhone",
+    "model":"iPhone 6",
+    "url": "iPhone_6.jpg"
+  },
+  {
+    "brand":"iPhone",
+    "model":"iPhone 6s",
+    "url": "iPhone_6s.jpg"
+  },
+  {
+    "brand":"iPhone",
+    "model":"iPhone 5se",
+    "url": "iPhone_5se.jpg"
+  },
+  {
+    "brand":"Samsung",
+    "model":"Samsung s8",
+    "url": "Samsung_s8.jpg"
+  },
+  {
+    "brand":"Samsung",
+    "model":"Samsung a7",
+    "url": "Samsung_a7.jpg"
+  },
+  {
+    "brand":"Samsung",
+    "model":"Samsung j5",
+    "url": "Samsung_j5.jpg"
+  },
+  {
+    "brand":"LG",
+    "model":"LG G6",
+    "url": "LG_G6.jpg"
+  },
+  {
+    "brand":"Sony",
+    "model":"Sony XZ",
+    "url": "Sony_XZ.jpg"
+  }
+]
